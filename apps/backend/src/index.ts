@@ -10,7 +10,6 @@ import { getSignedUrl } from "@aws-sdk/s3-request-presigner";
 dotenv.config();
 
 
-
 const PORT = process.env.PORT;
 const app = express();
 app.use(cors());
