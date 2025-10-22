@@ -1,3 +1,4 @@
+
 import { GenerateImage } from "@/components/GenerateImage";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Train } from "@/components/Train";
